@@ -1,4 +1,7 @@
 // imports always go first at the top
+
+// checkout https://router.vuejs.org/guide/ fo more info on this!
+
 import SplashPage from "./modules/SplashPage.js";
 import AppPage from "./modules/AppPage.js";
 import ErrorPage from "./modules/ErrorPage.js";
